@@ -1,0 +1,20 @@
+# Site settings
+title: Mecatrix
+email: info@mecatrix.ca
+phone: (514) 893-7556
+description: > # this means to ignore newlines until "baseurl:"
+  Mécatrix est spécialisée dans le développement et l’amélioration des
+  processus d’affaires, plus particulièrement, pour les entreprises œuvrant
+  dans le domaine de la Mécanique du Bâtiment. Reposant sur des technologies
+  fiables et renommées tel que Sharepoint, Excel et SQL Serveur, nos solutions
+  permettent aux entreprises d’accroître leur productivité tout en limitant
+  les inconvénients reliés aux changements qui sont imposés aux utilisateurs
+  lors de l’implantation d’un nouveau logiciel.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mecatrix.ca" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown

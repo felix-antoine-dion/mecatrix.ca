@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   les inconvénients reliés aux changements qui sont imposés aux utilisateurs
   lors de l’implantation d’un nouveau logiciel.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mecatrix.ca" # the base hostname & protocol for your site
+url: "https://mecatrix.ca" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
